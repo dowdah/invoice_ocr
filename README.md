@@ -1,5 +1,7 @@
 # Invoice Optical Character Recognition Project
 
+![Version: 1.0](https://img.shields.io/badge/Version-1.0-brightgreen?style=for-the-badge) [![中文文档](https://img.shields.io/badge/中文文档-brightgreen?style=for-the-badge)](README-zh.md)
+
 ## Project Overview
 This project, developed in Python 3, aims to automatically identify and extract information from invoices using Optical Character Recognition technology. It is designed for finance, accounting, and any other fields that require extensive invoice processing, with the goal of increasing efficiency and reducing manual input errors.
 
