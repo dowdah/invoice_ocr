@@ -6,7 +6,7 @@ This project, developed in Python 3, aims to automatically identify and extract 
 ## Features
 - **Automated Text Recognition:** Utilizes OCR technology to automatically identify text on invoices, including but not limited to invoice numbers, dates, amounts, etc.
 - **Supports Various Invoice Formats:** Capable of processing different formats and layouts of invoices, including digital and paper invoices.
-- **Data Export:** Recognized data can be exported to CSV files or directly integrated into financial software.
+- **Data Export:** Recognized data can be exported to CSV or JSON files.
 - **User-friendly Interface:** An easy-to-use interface allows users to effortlessly upload and process invoices.
 
 ## Getting Started
@@ -40,7 +40,7 @@ The following steps will help you set up and run the project quickly.
 - **Image Processing:** Uses [OpenCV](https://opencv.org/) for initial image processing to improve recognition accuracy.
 
 ## Contribution Guide
-We welcome all forms of contribution, including but not limited to proposals for new features, bug fixes, documentation updates, etc. Please read `CONTRIBUTING.md` for how to get started.
+We welcome all forms of contribution, including but not limited to proposals for new features, bug fixes, documentation updates, etc.
 
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for details.
